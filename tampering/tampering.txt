@@ -1,0 +1,2 @@
+The user input is not being sanitized and malicious input could direct alter our code. The secured
+version sanitize the user input and convert the input into string. Tampering violates the Integrity principle.

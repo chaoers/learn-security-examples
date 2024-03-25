@@ -1,3 +1,6 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+    insecure version allow user to directly manifest our database and acquire information that is not supposed to be accessed. Secure version sanitized the input to prevent that from happening.
 Which CIA property does tampering violate?
+    Availability.
 What additional security mechanisms can you incorporate?
+    Use authorization to grant access/set limit for users.
