@@ -1,0 +1,2 @@
+It allows anyone to moderate the user rights in the db. Secure version use session token to verify
+and make sure the user has the authorized right to modify the data.
